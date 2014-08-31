@@ -1,0 +1,73 @@
+
+<body>
+
+<font fg=ffffff>
+
+<p align=center>
+コマンドヘルプ：その他
+</p>
+
+</font>
+
+<br>
+
+<font fg=ffffaf>
+ヘルプの呼び出し：
+</font>
+
+<br>
+チャットウィンドウの右下にある
+<font fg=ffffff>
+クエスチョンマークのアイコン
+</font>
+をクリックするか、
+<font fg=ffffff>
+Ctrl+Hキー
+</font>
+を押します。
+<br>
+
+<br>
+
+<font fg=ffffaf>
+ユーザー確認：
+</font>
+
+<br>
+チャット入力ウィンドウ
+<font fg=ffffff>
+/who[半角スペース]キャラクターの名前」
+</font>
+と入力します。
+<br>
+
+<br>
+
+<font fg=ffffaf>
+サウンド On/Off：
+</font>
+
+<br>
+ミュージックやサウンドのボリューム調節をするには、チャットウィンドウに
+<font fg=ffffff>
+「/music」
+</font>
+あるいは
+<font fg=ffffff>
+「/sound」
+</font>
+と入力するとボリュームを調整するウィンドウが表示されるので、ボリュームカーソルを動かして調節します。
+<br>
+<font fg=ffffaf>
+
+<p>移動 HP/MP バー On/Off：</font>
+
+<p>移動 HP/MP バーの表示をOn/OffにするにはCtrl＋Rを押します。<br>
+
+<br>
+<br>
+
+<img src="#331" link="help">
+</img>
+
+</body>

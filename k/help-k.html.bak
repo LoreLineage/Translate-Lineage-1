@@ -1,0 +1,17 @@
+<body>
+<font fg=ffffff><p align=center>리니지 Help</p></font>
+<br>
+아래중 원하시는 항목을 마우스로 클릭하세요:
+<br>
+<p><a link="helpgen"> 일반</a>
+<p><a link="helpitm"> 아이템 관련</a>
+<p><a link="helpcon"> 대화 관련</a>
+<p><a link="helpcom"> 전투 관련</a>
+<p><a link="helpnpc"> NPC 조종 관련</a>
+<p><a link="helpmgc"> 마법 관련</a>
+<p><a link="helpmgcef"> 요정 마법 관련</a>
+<p><a link="helpple"> 혈맹 관련</a>
+<p><a link="helppar"> 파티 관련</a>
+<p><a link="helplng"> 언어 관련</a>
+<p><a link="helpetc"> 기타</a>
+</body>
