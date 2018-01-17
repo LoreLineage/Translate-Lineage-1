@@ -316,7 +316,7 @@
 Билет в поместье Глудио
 Билет на рейс к острову
 Зелье лечения отравления 
-Упырь
+Вурдалак
 Скелет
 Старший Арахнавиль
 Начальник порта
@@ -1579,7 +1579,7 @@ EXP
 Орк Санта
 Стрекоза
 Астаджио
-Заклинание (Клинок льда)
+Заклинание (Кинжал льда)
 Заклинание (Сюрикен ветра)
 Заклинание (Огненная стрела)
 Заклинание (Сталактит)
@@ -1871,504 +1871,504 @@ EXP
 Книга заклинаний (Разложение)
 Книга заклинаний (Ответное обнаружение)
 Книга заклинаний (Абсолютный барьер)
-Книга заклинаний (Продвинутый дух)
+Книга заклинаний (Сильный дух)
 Книга заклинаний (Морозная буря)
 Линда
 Пагору
 Дико
 Гирим
-Ivory Tower Wizard
-Cleaning now... Cleaning now...
-Inside the Ivory Tower... nothing is strange
-... Master. Where is...?
-Hmm... Where could that book be?
-...if those chemical reagents are mixed...
-I have no idea...
-Aah, could something wrong have happened?
-... ought not to flunk the exam...
-Whew, my legs hurt...
-Map:Oren
-Griffon Feather
-Wind Tear
-Blank Scroll (Level 2)
-Blank Scroll (Level 3)
-Blank Scroll (Level 4)
-Blank Scroll (Level 5)
-Magic Ball
-Barnia
-Ribian
-Apprentice Elf Armor
-Apprentice Elf Boots
-Apprentice Elf Helm
-Assistant Manager of the Coliseum
-Elven Helm of Dexterity
-Elven Helm of Constitution
-Old Trading Document
-Letter from Aanon
-Letter from Oth
-Search Document
-Letter from Zero
-Letter from Jem
-Black Knight's Pledge Document
-Duda-Mara Spellbook
-Neruga Spellbook
-Gandi Spellbook
-Atuba Spellbook
-Cursed Spellbook
-Book of Magical Powers
-Red Cloak
-Skeleton Skull
-Ghoul Nail
-Ghoul Tooth
-Turtle Dragon Shell
-Knight's Hood
-Red Knight's Hood
-Ricky
-Oth
-Zero
-Jem
-Black Knight Search Party
-Forgotten Island Boat Ticket
-Isvall
-Ishiris
-Forgotten Plate Mail
-Forgotten Leather Armor
-Forgotten Robe
-Forgotten Scale Mail
-Ring of Summon Control
-Forgotten Great Sword
-Forgotten Sword
-Forgotten Bowgun
-Old Helm of Wind
-Helm of Wind
-Rabbit Liver
-Oblivion
-Heine Boat Ticket
-Ancient Plate Mail
-Ancient Leather Armor
-Ancient Robe
-Ancient Scale Mail
-Ancient Sword
-Ancient Great Sword
-Ancient Bowgun
-Detector
-Chicky
-Lucky
-Tilon
-Ancient Scroll
-Sealed
-Spellbook (True Target)
-Spellbook (Glowing Aura)
-Secret of Life
-Agricolaw
-Davia
-Wind Rod
-Xperin
-(Ice Dagger)
-(Wind Shuriken)
-(Fire Arrow)
-(Stalac)
-(Frozen Cloud)
-(Earth Jail)
-(Cone of Cold)
-(Sunburst)
-(Earthquake)
-(Fire Storm)
-(Greater Haste)
-(Holy Weapon)
-(Decrease Weight)
-(Reveal Weakness)
-(Counter Magic)
-(Meditation)
-(Mana Drain)
-(Darkness)
-(Weakness)
-(Bless Weapon)
-(Busuccus)
-(Disease)
-(Life Stream)
-(Silence)
-(Decay Potion)
-(Counter Detection)
-(Absolute Barrier)
-(Advance Spirit)
-(Freezing Blizzard)
-(True Target)
-(Glowing Aura)
-Sword of Illusion
-Armor of Illusion
-Bow of Illusion
-Scroll of Enchant Weapon Illusion
-Scroll of Enchant Armor Illusion
-Illusina
-Steel Staff of Mana
-Spirit of Fire
-Spirit of Water
-Spirit of Wind
-Spirit of Earth
-Summoned Spirit of Fire
-Summoned Spirit of Water
-Summoned Spirit of Wind
-Summoned Spirit of Earth
-Mark
-Jim
-Search Ant
-Gatekeeper Ant
-Aria
-Darkmar
-Fairy Princess
-Dilong
-Betrayer of Undead
-Marshall
-Secret Room Key
-Arachnevil Elder's Claw
-Ramia's Scale
-Potion of Revival
-Letter of Gratitude
-Relics of the People
-Raw Spirit Stone
-Cursed Spirit Scroll
-Undead Key
-Zombie Key
-Skeleton Key 
-Bone of Undead
-Bone Piece of Undead
-Shield of Red Knight
-Jane
-Alex
-Cronos
-Dark Mage
-Samuel
-Phineas
-Heather
-Heidi
-Alan
-Toby
-Sheldon
-Randalf
-Serpent of Elindaire
-Elindaire
-Minion of Elindaire
-Melinda
-Tarnac
-Randalf
-Esmerelda
-Uriah
-Josef
-Rachel
-Ruth
-Kohath
-Korah
-Rueben
-Makir
-Jack-O-Lantern
-Jack-0-Lantern
-Pumpkin Seed
-Giant Pumpkin Seed
-Pumpkin Mask
-Pumpkin Candy
-Golden Pumpkin
-Silver Pumpkin
-Bronze Pumpkin
-Pumpkin Costume
-Mutant Giant Queen Ant
-Mutant Giant Soldier Ant
-Elven T-Shirt
-Sovereign's Majesty
-Secret Key
-Mystery Crystal Ball
-Mystery Staff
-Crystal Staff
-Betrayer's Skeleton Guardsman
-Jack-O-Lantern
-Fire Spirit 
-Water Spirit
-Wind Spirit
-Earth Spirit
-Calvas
-Key to Ramia's Room
-Spellbook (Call Pledge Member)
-Aria's Reward
-Elven Treasure
-Orclon
-Ragpicker
-Magical Armor of Fafurion
-Magical Armor of Antharas
-Magical Armor of Valakas
-Magical Armor of Lindvior
-Novice Teleporter
-Bandit
-Bandit Leader
-Doppelganger
-Gargoyle
-Nightmare
-Lesser Dragon
-Dire Wolf
-Greater Minotaur
-Cimaera
-Bone Dragon
-Ancient Giant
-Lich
-Dancing Sword
-Lesser Demon
-Medusa
-Varlok
-Gelatinous Cube
-Lindvior
-Ken Rauhel
-Cerenis
-Royal Guard
-Bodyguards
-Defman
-Raon
-Pau
-Kamu
-Ogi
-Sirius
-Timon
-Biust
-Aden
-Jessica
-Misa
-Marja
-Chobi
-Bindro
-Mikey
-Arin
-Matilda
-Elleanor
-Jennifer
-Selma
-Lilia
-Maren
-Sheryan
-Buckley
-Jones
-Bim
-Rafga
-Rozen
-Jaimy
-Marx
-Raphael
-Barbara
-Kidman
-Aquin
-Melly
-Owon
-Calvin
-Louis
-Din
-Richard
-Mack
-Wally
-Sabin
-Jackie
-Affleck
-Brad
-Ruky
-TOI Teleport Scroll, 21F
-TOI Teleport Scroll, 11F
-Secretary to the Mayor
-Village Manager
-Talking Island Village
-Gludin Town
-Kent Castle Village
-Fire-Field Farmers Town
-Woodbec Village
-Silver Knight Town
-Giran City
-Heine Castle City
-Ivory Tower Town
-Werldern Village
-Order of the Holy Cross
-Lady of the Royal Family
-Gentleman of the Royal Family
-Young person
-Little kid
-Child
-Village resident
-Armor of the Pretender King
-Boots of the Pretender King
-Gauntlet of the Pretender King
-Helmet of the Pretender King
-Bone of Dragon
-Boots of Cerenis
-Cimaera Skin (Dragon)
-Cimaera Skin (Goat)
-Cimaera Skin (Lion)
-Cimaera Skin (Snake)
-Circlet of Cerenis
-Heart of Dragon
-Gloves of Cerenis
-Robe of Cerenis
-Map: Aden
-Guard Tower: Eva
-Guard Tower: Paagrio
-Guard Tower: Maphr
-Guard Tower: Sayha
-Axe of Maphr
-Valakas
-Commemorative Coin of Aden
-Lindvior
-Lich Robe
-Shield of Medusa
-Axe of Minotaur
-Ring of Ancient Giant
-Antharas
-Fafurion
-Maid of the Ice Queen
-Betrayed Orc Chief
-Betrayed Orc Archer
-Crystal Piece of Soul
-Letter of Soul
-Emblem Piece of the Royal Family
-Mysterious Bag
-Ring of Guardian
-Ice Queen...
-Crystal of Soul... My research...
-Karudim
-Juke
-Timpukin
-Catherine
-Sharu
-Kinin
-Elleris
-Magus
-Fega
-Melissa
-Blood Pledge Administrator
-Doppelganger Regurgitation
-Head of Ancient Key
-Wisdom of the Ancient People
-Record of the Ancient Devil
-Blue Flute
-Mysterious Shell
-Night Vision
-Ancient Inheritance
-Torn Scout's Report
-Piece of Scout's Report
-Gloves of Protection
-Cloak of Mana
-Belt of Bravery
-Bow of the Ancients
-Sword of Heaven
-Jimu
-Giant Elder
-Giant Guardian
-Scout
-Heit
-Sepia
-Sin of Sepia
-Ancient Apparition
-Mysterious Rock
-Right-Hand Bandit
-Guardian's Bag
-Marshall's Reward
-Ancient Harp
-Soldier of Digardeng
-Wedding Ring (Sapphire)
-Wedding Ring (Diamond)
-Apparition's Bag
-Odia
-Morin
-Candice
-Celina
-Cindy
-Dina
-Ebony
-Rija
-Bobby
-Levins
-Amie
-Liz
-Bess
-Diana
-Nash
-Mitchel
-Acacia
-Mindy
-Angeline
-Lorin
-Jamora
-Magic Bag of Talass
-Apprentice Knight Sword
-Edie
-Arana
-Beverly
-Meyo
-Prolance
-Genesse
-Judith
-Lucie
-Isabelle
-Rociri
-Nadine
-Sibia
-Sophia
-Aberi
-Karot
-Locis
-Sherrie
-Cellay
-Angelina
-Michelli
-Natalia
-Violet
-Mariel
-Bianca
-Bella
-Florina
-Wanda
-May
-Joanne
-Ophelia
-Bonie
-Mella
-Teresa
-Nona
-Sadie
-Brittainy
-Tamara
-Lucinda
-Angelica
-Chellany
-Ressie
-Karisha
-Sylvia
-Zenith
-Nita
-McCauley
-Doria
-Helena
-Goddess Ariel
-Haste Master
-Kuper
-Dunham
-Sword of Varlok
-Eye of Varlok
-Claw of Varlok
-Heart of Varlok
-Death Blade
-Mana Crystal Ball
-Bow of Flames
-Sword of Flames
-Gold Scepter
-Dicarding
-Ramuda
-Ancient Person
-Firecracker of Victory
-Magic Ball
-Varlok's Servant
-Spirit of Ancient Person
-Spirit of Enraged Ancient Person
-Key of Ancient Prince
-Key of Ancient Knight
-Key of Ancient Elf
-Key of Ancient Wizard
-Key of Fate
-Creation of Varlok
-Ancient Person's Polymorph Staff
-Jeweler
+Маг башни Слоновой Кости
+Сейчас уборка... Сейчас уборка...
+Внутри башни Слоновой кости ... ничего странного
+... Мастер. Где...?
+Хм ... Где могла бы быть эта книга?
+... если смешать эти химические реагенты...
+Не понимаю...
+А, что-то случилось?
+... не должен провалить экзамен...
+Ох, как же ноги болят...
+Карта: Орен
+Перо грифона
+Клочок ветра
+Чистый свиток (Уровень 2)
+Чистый свиток (Уровень 3)
+Чистый свиток (Уровень 4)
+Чистый свиток (Уровень 5)
+Магический шар
+Барния
+Рибиан
+Броня эльфа-ученика
+Сапоги эльфа-ученика
+Шлем эльфа-ученика
+Помощник управляющего Колизея
+Эльфийский шлем ловкости
+Эльфийский шлем выносливости
+Старый торговый документ
+Письмо от Аанона
+Письмо от Ота
+Поиск документа
+Письмо от Зеро
+Письмо от Джем
+Документ клана Чёрного рыцаря
+Книга заклинаний Дуда-Мара
+Книга заклинаний Неруга
+Книга заклинаний Ганди
+Книга заклинаний Атуба
+Проклятая книга заклинаний
+Книга магических сил
+Красный плащ
+Череп скелета
+Коготь вурдалака
+Зуб вурдалака
+Панцирь черепахового дракона
+Капюшон рыцаря
+Капюшон красного рыцаря
+Рики
+От
+Зеро
+Джем
+Поиск группы чёрного рыцаря
+Билет на Забытый остров
+Исвал
+Иширис
+Забытый нагрудник
+Забытый кожаный доспех
+Забытая роба
+Забытая чешуйчатая броня
+Кольцо контроля призыва
+Забытый большой меч
+Забытый меч
+Забытый арбалет
+Старый шлем ветра
+Шлем ветра
+Печень кролика
+Забвение
+Билет на рейс в Хейн
+Древний нагрудник
+Древняя кожаная броня
+Древняя роба
+Древняя чешуйчатая броня
+Древний меч
+Древний большой меч
+Древний арбалет
+Детектор
+Чики
+Лаки
+Тилон
+Древний свиток
+Запечатанный
+Книга заклинаний (Настоящая цель)
+Книга заклинаний (Светящаяся аура)
+Секрет жизни
+Фермер
+Давия
+Жезл ветра
+Иксперин
+(Кинжал льда)
+(Сюрикен ветра)
+(Огненная стрела)
+(Сталктит)
+(Облако мороза)
+(Земляная тюрьма)
+(Конус холода)
+(Озарение)
+(Землетрясение)
+(Огненный шторм)
+(Великое ускорение)
+(Святое оружие)
+(Уменьшить вес)
+(Выявить слабость)
+(Ответная магия)
+(Медитация)
+(Кража маны)
+(Тьма)
+(Слабость)
+(Благословенное оружие)
+(Суккуб)
+(Болезнь)
+(Поток жизни)
+(Безмолвие)
+(Разложение)
+(Ответное обнаружение)
+(Абсолютный барьер)
+(Сильный дух)
+(Морозная буря)
+(Настоящая цель)
+(Светящаяся аура)
+Меч иллюзии
+Броня иллюзии
+Лук иллюзии
+Свиток модификации оружия иллюзии
+Свиток модификации брони иллюзии
+Иллюзина
+Стальной посох маны
+Дух огня
+Дух воды
+Дух ветра
+Дух земли
+Призванный дух огня
+Призванный дух воды
+Призванный дух ветра
+Призванный дух земли
+Марк
+Джим
+Муравей-разведчик
+Муравей-привратник
+Ария
+Даркмар
+Принцесса фей
+Дилонг
+Предатель нежити
+Маршалл
+Ключ от тайной комнаты
+Коготь старшего арахнавиля
+Чешуя Рамии
+Зелье возрождения
+Письмо благодарности
+Реликвии людей
+Необработанный камень духа
+Свиток проклятого духа
+Ключ нежити
+Ключ зомби
+Ключ скелета
+Кость нежити
+Фрагмент кости нежити
+Щит красного рыцаря
+Джейн
+Алекс
+Кронос
+Тёмный маг
+Сэмюель
+Финеас
+Хезер
+Хейди
+Алан
+Тоби
+Шелдон
+Рэндальф
+Змея Элиндейра
+Элиндейр
+Миньйон Элиндейра
+Мелинда
+Тарнак
+Рэндальф
+Эсмеральда
+Урия
+Джозеф
+Рейчел
+Рут
+Кохат
+Корах
+Рюбен
+Макир
+Тыква-фонарь
+Тыква-фонарь
+Тыквенное семечко
+Гигантское семя тыквы
+Тыквенная маска
+Тыквенная конфета
+Золотая тыква
+Серебряная тыква
+Бронзовая тыква
+Костюм тыквы
+Мутировавшая гигантская королева муравьёв
+Мутировавший гигантский муравей-солдат
+Эльфийская футболка
+Королевский судья
+Секретный ключ
+Таинственный кристальный шар
+Таинственный посох
+Кристальный посох
+Скелет-страж предатель
+Тыква-фонарь
+Дух огня
+Дух воды
+Дух ветра
+Дух земли
+Кальвас
+Ключ от комнаты Рамии
+Книга заклинаний (Призвть члена клана)
+Награда Арии
+Эльфийское сокровище
+Орклон
+Скупщик
+Магическая броня Фафуриона
+Магическая броня Антараса
+Магическая броня Валакаса
+Магическая броня Линдвиора
+Телепортер новичков
+Бандит
+Главарь бандитов
+Доппельгангер
+Горгулья
+Кошмар
+Младший дракон
+Жуткий волк
+Большой минотавр
+Химера
+Костяной дракон
+Древний великан
+Лич
+Танцующий меч
+Младший демон
+Медуза
+Колдун
+Куб желе
+Линдвиор
+Кен Раухел
+Церенис
+Королевский страж
+Телохранитель
+Дефман
+Раон
+Пау
+Каму
+Оги
+Сириус
+Тимон
+Бьюст
+Аден
+Джессика
+Миса
+Марья
+Чоби
+Биндро
+Майк
+Арин
+Матильда
+Элеанора
+Дженнифер
+Селма
+Лилия
+Марен
+Шериан
+Бакли
+Джонс
+Бим
+Рафга
+Роузен
+Джейми
+Маркс
+Рафаэль
+Барбара
+Кидман
+Аквин
+Мелли
+Овон
+Кэлвин
+Лоис
+Дин
+Ричард
+Мак
+Валли
+Сабин
+Джеки
+Аффлек
+Брэд
+Руки
+Свиток телепорта: Башня Дерзости, 21 этаж
+Свиток телепорта: Башня Дерзости, 11 этаж
+Секретарь мэра
+Управляющий деревней
+Деревня Говорящего острова
+Город Глудин
+Деревня замка Кент
+Город фермеров огненного поля
+Деревня Вудбек
+Город Серебряного Рыцаря
+Город Гиран
+Город замка Хейн
+Город башни Слоновой Кости
+Деревня Велдерн
+Орден Святого Креста
+Леди королевской семьи
+Джентльмен королевской семьи
+Молодой человек
+Маленький ребёнок
+Ребенок
+Деревенский житель
+Броня короля-самозванца
+Сапоги короля-самозванца
+Перчатки короля-самозванца
+Шлем короля-самозванца
+Кость дракона
+Ботинки Церенис
+Шкура химеры (Дракон)
+Шкура химеры (Коза)
+Шкура химеры (Лев)
+Шкура химеры (Змея)
+Шлем Церенис
+Сердце дракона
+Перчатки Церенис
+Роба Церенис
+Карта: Аден
+Сторожевая башня: Ева
+Сторожевая башня: Паагрио
+Сторожевая башня: Мафр
+Сторожевая башня: Сайха
+Топор Мафр
+Валакас
+Памятная монета Адена
+Линдвиор
+Роба лича
+Щит медузы
+Топор минотавра
+Кольцо древнего великана
+Антарас
+Фафурион
+Горничная снежной королевы
+Вождь орков-предателей
+Лучник орков-предателей
+Кристальный фрагмент души
+Письмо души
+Фрагмент герба королевской семьи
+Таинственная сумка
+Кольцо стража
+Снежная королева...
+Кристалл души... Моё исследование...
+Карудим
+Джук
+Тимпукин
+Катерина
+Шару
+Кинин
+Эллерис
+Маг
+Фега
+Мелисса
+Администратор клана
+Комок доппельгангера
+Фрагмент древнегно ключа
+Мудрость древних людей
+Запись древнего дьявола
+Голубая флейта
+Таинственная оболочка
+Ночное видение
+Древнее завещание
+Отчёт разведчика Торна
+Фрагмент отчёта разведчика
+Перчатки защиты
+Плащ маны
+Пояс храбрости
+Лук древних
+Меч небес
+Джиму
+Старший великан
+Великан-страж
+Разведчик
+Хейт
+Сепия
+Грех Сепии
+Древний призрак
+Таинственный камень
+Бандит - правая рука вожака
+Сумка охранника
+Нагрда Маршалла
+Древняя арфа
+Солдат Дигарденга
+Обручальное кольцо (Сапфир)
+Обручальное кольцо (Бриллиант)
+Сумка призрака
+Одия
+Морин
+Кендис
+Селина
+Синди
+Дина
+Эбони
+Рия
+Бобби
+Левинс
+Эми
+Лиз
+Бесс
+Диана
+Нэш
+Митчел
+Акация
+Минду
+Анджелина
+Лорин
+Джамора
+Магическая сумка Таласса
+Меч рыцаря-ученика
+Эди
+Арана
+Беверли
+Мэйо
+Проланс
+Дженесси
+Джудит
+Люси
+Изабелла
+Рокири
+Надин
+Сибия
+София
+Абери
+Карот
+Локис
+Шерри
+Селлай
+Ангелина
+Микелли
+Наталия
+Виолетта
+Мариэль
+Бьянка
+Белла
+Флорина
+Ванда
+Мэй
+Джоан
+Офелия
+Бони
+Мелла
+Тереза
+Нона
+Сэди
+Британи
+Тамара
+Люсинда
+Анжелика
+Челани
+Рэсси
+Кариша
+Сильвия
+Зенит
+Нита
+МакКоли
+Дория
+Елена
+Богиня Ариель
+Мастер скорости
+Купер
+Данхем
+Меч колдуна
+Глаз колдуна
+Коготь колдуна
+Сердце колдуна
+Клинок смерти
+Кристальный шар маны
+Лук пламени
+Меч пламени
+Золотой скипетр
+Дикардинг
+Рамуда
+Древний
+Фейерверк победы
+Магический шар
+Слуга колдуна
+Древний дух
+Разъярённый древний дух
+Ключ древнего принца
+Ключ древнего рыцаря
+Ключ древнего эльфа
+Ключ древнего мага
+Ключ судьбы
+Создание колдуна
+Древний посох полиморфа
+Ювелир
 Paruit
 Juice
 Wedding Ring (Emerald)
