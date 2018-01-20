@@ -2456,11 +2456,11 @@ EXP
 Эдорю Кайзера
 Коготь Кайзера
 Арбалет Кайзера
-Бронзовый
-Стальной
-Теневой
-Скрытный
-Дамасковый
+Бронзы
+Стали
+Тени
+Скрытности
+Дамаска
 Метательный нож
 Рукавицы
 Плащ
@@ -2721,11 +2721,11 @@ EXP
 Трёхсторонняя магическая игральная кость
 Четырёхсторонняя магическая игральная кость
 Шестисторонняя магическая игральная кость
-*Бонг... бонг...*
+*Прыг... прыг...*
 Иди сейчас.
 Ты звал?
 Иду, хозяин!
-*Перк... Перк...*
+*Скок... Скок...*
 Мяу
 Мяу
 Ох... какая неприятность!
@@ -2812,11 +2812,11 @@ EXP
 Гав, гав! Я уже иду!
 Гав! Мой хозяин зовёт!
 Гав, гав! Просто отдай мне команду!
-Гав, гав! Я всегда на стороне хозяина!
+Гав, гав! Я всегда следую за хозяином!
 Ауу! Пожалуйста, разреши мне немного повеселиться, хозяин...
 Арф, гав! Ты разрешишь мне повеселиться!
 Ауу, ауу! Я уже иду, мой дорогой хозяин...
-Ауу, ауу, ауу! Я буду на стороне хозяина всю мою жизнь...
+Ауу, ауу, ауу! Я буду следовать за хозяином всю мою жизнь...
 Гав, гав! Да, да хозяин!
 Гав, гав! Ты звал, хозяин?
 Гав, гав! Я иду за тобой!
@@ -2825,458 +2825,458 @@ EXP
 Ррррр... Зачем ты звал меня?
 Ррррр... Я сайчас занят, хозяин.
 Ррррр... Я не могу это сделать.
-Ауу! Whine... I'm going.
-Howl, howl! Whine... Did you call?
-Pant, pant... Are you going to give me something to eat?
-Pant, pant... I've got to follow you, master.
-Howl, whine... I'll go in a little while.
-Oh... You'll at least give me some honey, right?
-Sniff, sniff... I smell something really delicious, master.
-Sniff, sniff... I'll be at your side, master.
-Whine... Did you call?
-Whine... There's no shine to my fur.
-Whine... Please give me something to eat, master.
-Whine... I'll stay with you, master.
-Meow... You're bothering me again.
-Meeooww... Let's play hide and seek.
-Meow... I'm going.
-Meow... You're not going to give me any if I go?
-Boing... Carrot, carrot...
-Boing... Where is my master?
-Bounce, bounce... I've got to be with my master.
-Bounce... Do you have a carrot?
-Woof! Wait a moment.
-Woof! Whew... You're clothes are gonna get dirty.
-Woof, woof! I've got to go gracefully.
-Woof, woof! I'll stay with you, master...
-Whew... I'm tired.
-Whew... What do you want?
-Whew... Well, are you at least going to give me something to eat?
-Whew... I like being with you the most, master.
-Cougar Skin
-Cougar Claw
-Potion of Mummy Lord
-Amulet of Iris
-Sword of Knight Vald
-Jode
-Rollko
-TOI Teleport Scroll, 100F
-Reaper
-Tear of Moonlight
-Fang of Goblin
-Fang of Hunting Dog
-Fang of Black Dragon
-Fang of Destruction
-Fang of Fighting Dog
-Fang of Immortality
-Fang of Demon
-Fang of Gold
-Fang of Steel
-Fang of Victory
-Blessed Pet Armor
-Chain Pet Armor
-Cloth Pet Armor
-Leather Pet Armor
-Mithril Pet Armor
-Shining Pet Armor
-Scale Pet Armor
-Steel Pet Armor
-Raidar
-Key of Chaos
-Dark Elf General
-Dark Elf Thief
-Dark Elf Soldier
-Dark Elf Wizard
-Dark Elf Ranger
-Dark Elf Guard
-Dark Elf Beast Tamer
-Dire Bat
-Dire Bear
-Dark Elementalist
-Dark Elemental
-Greater Dark Elemental
-Sent
-Sendy
-Pasim
-Lost Child
-Child that lost his parents
-Rafons
-Lastabad Long Sword
-Lastabad Edoryu
-Lastabad Dagger
-Lastabad One-Handed Spear
-Lastabad Bow
-Lastabad Heavy Cross Bow
-Lastabad Staff
-Lastabad Chain Mail
-Lastabad Studded Leather Armor
-Lastabad Robe
-Lastabad Boots
-Lastabad Round Shield
-Lastabad Cross Bow
-Lastabad Leather Armor
-Beast Tamer Ring
-Wolf Skin Cloak
-Elementalist Ring
-Lastabad Blade
-Baras
-Kunos
-Teranus
-Zyrus
-Ian
-Lastabad
-Ryman
-Mercenary Squad
-Franko
-Head of Mercenary Squad
-Werldern
-Kent
-Windawood
-Ruse
-Vector
-Luster
-Kamia
-Seratti
-Ramuse
-Brutus
-Gray
-Kenihi
-Muras
-Karas
-Guardsman
-Oh... ugh!
-Oh.. ugh...
-Boo.. hoo...
-Ha-ee!
-Yah!!
-Whack!
-Hmm!
-Ah...ah...
-Crash!!
-Save me!!!!
-For this... to happen to me...
-It is regretfull...
-Ooh... Those guys!!
-Is it even... here?
-Contact headquarters...
-General! The enemy is here...
-Scout Will 1
-Scout Will 2
-Scout Will 3
-Scout Will 4
-The repose of darkness...
-It's Gran Kain!! Curse to the enemy!!
-... It's Gran Kain...
-Revenge of blood!!
-May you always be cursed...
-The worthless bloodline of Einhasad...
-Caster Will 1
-Caster Will 2
-Caster Will 3
-Caster Will 4
-Dantes will punish you...
-Aren't the supporting forces going to come?
-I can't protect this place so...
-Don't be so happy that we won this battle...
-May there be glory... to Lastabad!
-The wrath of Gran Kain will turn this land to a sea of fire!!!
-Head of Guards
-Head of Fighters
-Pseudo Shadow of Flame
-Fettered Soul
-Sarsha
-Black Knight Captain
-Scroll of Soul
-Dark Crystal of Soul
-Staff of Ice Queen
-Staff of Demon
-Staff of Baphomet
-Staff of Beleth
-Sword of Kurtz
-Ashinnue
-[High Pet]
-Black Knight Guard
-Lastabad’s Eye
-Bludika’s Letter of Treaty
-Book of Protection, Chapter 1
-Black Lump of Pure Mithril Piece
-Dwarven Commander’s Letter of Treaty
-Blueprint of Weapon Manufacture
-Book of Protection, Chapter 2
-Soldier’s Necklace
-Dark Elven Soldier’s Badge
-Dark Elven General’s Badge
-Guard’s Ring
-Holy Water
-Holy Bread
-Dwarf’s Pouch
-Sacred Pouch
-Eno
-Kan’s Captain of the Guard
-Semi
-Priestess Kiry
-Defeated Soldier
-Compensation
-Black Lump of Rough Mithril
-Black Lump of Pure Mithril
-Black Mithril Plate
-Crown of Mummy Lord
-Scroll Pouch
-Tano Festival Event Helper 
-Silver Zongzi 
-Gold Zongzi
-Lump of Gold
-Rough Gold Piece
-Gold Plate
-Lump of Silver
-Rough Silver Piece
-Silver Plate
-Lump of Platinum
-Rough Platinum Piece
-Platinum Plate
-Did you call me?
-If you are going to boss me around, you should at least pay me!
-Why did you call me?
-Am I your pet dog?
-I’m hungry! Give me some food!
-Tiger
-Nose
-High Cat
-blank
-High Collie
-blank
-High Wolf
-Ice Gem
-Item(s)
-Dress of Strength
-Dress of Dexterity
-Caliph Pouch
-Market Teleporter
-Market Guard
-Jianku
-Coin of Reputation
-Coin of Trust
-Coin of Wisdom
-Coin of Bravery
-Heart of Golem
-Heart of Firebird
-Heart of Ice Queen
-Heart of Drake
-Relic of Maphr
-Relic of Paagrio
-Relic of Eva
-Relic of Sayha
-Cloak of Vampire
-Cloak of Sashin
-Kuron
-Tulak
-Kusian
-Claw of Baranka
-Armor of Baranka
-Helmet of Baranka
-Gloves of Baranka
-Boots of Baranka
-Wand of Laia
-Necklace of Laia
-Ring of Laia
-Robe of Laia
-Ring of Beast Summoner
-Amulet of Beast Summoner
-Robe of Beast Summoner
-Whip of Beast Summoner
-Ring of Black Wizard
-Amulet of Black Wizard
-Robe of Black Wizard
-Staff of Black Wizard
-Ring of Dark Forester
-Boots of Dark Forester
-Armor of Dark Forester
-Potion of Dark Forest
-Twig of Black Ent
-Bark of Black Ent
-Fruit of Black Ent
-Payment for Death
-Leather of Black Tiger
-Fang of Black Tiger
-Claw of Black Tiger
-Root of Deep Flower
-Bud of Deep Flower
-Venom of Plate Worm
-Fang of Plate Worm
-Rind of Plate Worm
-Leather of Mole
-Tail of Dillo
-Plate Worm Rind Armor
-Black Tiger Leather Cloak
-Sword of Silence
-Diad Fortress Edoryu
-Diad Fortress Crossbow
-Mineral Removal Document
-Mineral Pouch
-Blob Gastric Juice
-Volcanic Ash
-Black Spirit Stone
-Miner Oum
-Dark Elf Carrier
-Frim
-Rader
-Hagutin
-Runaway Oum
-Oum
-Elder Oum
-Goddess of Atonement
-Teleporter Diarus
-Trader Carupu
-Storage House Keeper Gaul
-Teleporter Diabes
-Trader Emart
-Storage House Keeper Garin
-Work Supervisor Oum
-Darpgadin
-Reona
-Black Tiger
-Summon Elemental
-Baranka
-Laia
-Beast Summoner
-Black Wizard
-Dark Forester
-Black Ent
-Heavy Oum
-Middle Oum
-Dillo
-Plate Worm
-Deep Flower
-Mole
-Pickaxe
-Pouch of Oum
-Oum Statue
-Oum Rough Statue
-Oum Refined Statue
-Oum Fine Statue
-Oum Painted Statue
-Oum Completed Statue
-Money Pouch of Reona
-Dark Elf Hunter
-Dark Elf Apprentice
-Redin
-Tristan
-Credonas
-Burns
-Genes
-Lance
-Coderage
-Xestin
-Smiter
-Yanstin
-Dress Evasion
-Black Spirit Crystal (Dress Mighty)
-Black Spirit Crystal (Dress Dexterity)
-Black Spirit Crystal (Dress Evasion)
-Spellbook (Shining Aura)
-Spellbook (Brave Aura)
-(Shining Aura)
-(Brave Aura)
-Diad Bow
-Aden Reconnaissance Soldier
-Olle
-Prisoner Dark Elf
-Fortress Guardian Tower
-High Quality Pouch of Karif
-Contract of Resurrection and Eternal Life
-Lavor's Pouch
-Rabla
-Lavor
-Rough Blade
-Copper Seal
-Silver Seal
-Gold Seal
-Seal of Harmony
-Seal of Mental Ability
-Seal of Physical Ability
-Taeha's Bag: Copper Seal
-Taeha's Bag: Silver Seal
-Taeha's Bag: Gold Seal
-Rabla's Pouch
-Madrian
-Lihas
-Letter of Lihas
-Letter of Rayon
-Happy Snowman
-Golden Socks
-Knight's Practice Set
-Rayon
-Regina
-Elf's Practice Set
-Teyres
-Wizard's Practice Set
-Podmaster
-Prince's Practice Set
-Folded
-Dark Elf's Practice Set
-Traditional Korean T-Shirt
-Kimono T-Shirt
-Chipao T-Shirt
-Taeha
-Commemorative Coinage of the King of Aden
-Market Teleporter
-Luku
-Denitz
-Kasham
-Yuno
-Kwanil
-Doyo
-Wizard's Pouch
-Cacao Beans
-Cacao Dough
-Sugar
-Cacao Butter
-Valentia
-Blaise
-Calculator
-Thin Plate
-Aden Chamber of Commerce
-Castle Gatekeeper
-Fortress Gatekeeper
-Ring of Bravery
-Amulet of Affection
-Traveler
-Magician
-Traveler's Rough Amulet
-Traveler's Amulet
-Traveler's Mysterious Amulet
-Oriharukon Dagger
-Mithril Dagger
-Demon Axe
-Crimson Lance
-Mink Coat
-Mambo Hat
-Glove of Fire Spirit
-Glove of Ice Spirit
-Glove of Wind Spirit
-Glove of Dark Spirit
-Abyss Ring
-Sealed Scroll
-Technical Document (Shock Stun)
-Spellbook (Learn Clan)
-Spirit Crystal (Triple Arrow)
-Spirit Crystal (Elemental Falldown)
-Spirit Crystal (Counter Miller)
-Spirit Crystal (Wind Shackle)
-Spirit Crystal (Exotic Vitalize)
-Spirit Crystal (Water Life)
-Spirit Crystal (Elemental Fire)
-Seal Release Scroll
-Cirius Commemoration Coin
-Abyss Crabman
-Abyss Turtle Dragon
-Abyss Lizardman
-Abyss Worm
-Abyss Elekkadom
-Abyss Scormystic
-Abyss Scorpaitan
-Abyss Beholder
-Talking Scroll
+Ауу! ууу... Я иду.
+Ауу, ауу! Уууу... Ты звал?
+Фрр, фрр... Ты собираешься дать мне что-нибудь поесть?
+Фрр, фрр... Я должен следовать за тобой, хозяин.
+Ауу, ууу... Я пойду через некоторое время.
+Ох ... Ты хотя бы дашь мне немного меда, верно?
+Нюх, нюх... Я чувствую запах чего-то действительно вкусного, хозяин.
+Нюх, нюх... Я буду следовать за тобой, хозяин.
+Ууу... Ты звал?
+Ууу... В моём меху нет блеска.
+Ууу... Пожалуйста, дай мне что-нибудь поесть, хозяин.
+Уууe... Я останусь с тобой, хозяин.
+Мяу... Ты снова меня беспокоишь.
+Мяяяяу... Давай играть в прятки.
+Мяу... Я иду.
+Мяу... Ты дашь мне что-то, если я пойду?
+Прыг... Морковка, морковка...
+Прыг... Где мой хозяин?
+Скок, скок... Я должен быть с моим хозяином.
+Прыг... У тебя есть морковка?
+Гав! Подожди немного.
+Гав! Фррр... Твоя одежда испачкается.
+Гав, гав! Я должен идти грациозно.
+Гав, гав! Я останусь с тобой, хозяин...
+Фрр... Я устал.
+Фрр... Чего ты хочешь?
+Фрр... Хорошо, ты собираешься дать мне что-нибудь поесть?
+Фрр... Мне нравится быть с тобой больше всего, хозяин.
+Шкура пантеры
+Коготь пантеры
+Зелье мумии лорда
+Амулет Ирис
+Меч рыцаря Валда
+Джод
+Роллко
+Свиток телепорта: Башня Дерзости, 100 этаж
+Жнец
+Слеза лунного света
+Клык гоблина
+Клык гончей
+Клык чёрного дракона
+Клык разрушения
+Клык боевого пса
+Клык бессмертия
+Клык демона
+Золотой клык
+Стальной клык
+Клык победы
+Благословенный доспех питомца
+Кольчужный доспех питомца
+Доспех питомца из ткани
+Кожаный доспех питомца
+Митриловый доспех питомца
+Сияющий доспех питомца
+Чешуйчатый доспех питомца
+Стальной доспех питомца
+Рейдар
+Ключ Хаоса
+Тёмный эльф-генерал
+Тёмный эльф-вор
+Тёмный эльф-солдат
+Тёмный эльф-маг
+Тёмный эльф-рейнджер
+Тёмный эльф-страж
+Тёмный эльф-укротитель зверей
+Жуткая летучая мышь
+Жуткий медведь
+Тёмный элементалист
+Тёмный элементаль
+Большой тёмный элементаль
+Сэнт
+Сэнди
+Пасим
+Потерявшийся ребёнок
+Ребенок, потерявший родителей
+Рафонс
+Длинный меч Ластабада
+Эдорю Ластабада
+Кинжал Ластабада
+Одноручное копье Ластабада
+Лук Ластабада
+Тяжелый арбалет Ластабада
+Посох Ластабада
+Кольчужная рубаха Ластабада
+Доспех из грубой кожи Ластабада
+Роба Ластабада
+Ботинки Ластабада
+Круглый щит Ластабада
+Арбалет Ластабада
+Кожаная броня Ластабада
+Кольцо укротителя зверей
+Плащ из волчьей шкуры
+Колько элементалиста
+Клинок Ластабада
+Барас
+Кунос
+Теранус
+Зирус
+Ян
+Ластабад
+Риман
+Отряд наёмников
+Франко
+Лидер отряда наёмников
+Велдерн
+Кент
+Виндавуд
+Руз
+Вектор
+Лустер
+Камия
+Сератти
+Рамуз
+Брутус
+Грей
+Кенихи
+Мурас
+Карас
+Страж
+Ох... ух!
+Ох.. ух...
+Буу.. хуу...
+Ха-е-е!
+Йах!!
+Бац!
+Хмм!
+Ах...ах...
+Бабах!!
+Спаси меня!!!!
+Для этого... произойти со мной...
+Это печально...
+Оох... Эти ребята!!
+Это даже ... здесь?
+Свяжитесь со штабом ..
+Генерал! Враг здесь...
+Разведчик 1
+Разведчик 2
+Разведчик 3
+Разведчик 4
+Покой тьмы...
+Это Гран Каин! Проклятье врагам!
+... Это Гран Каин...
+Месть крови!!
+Пусть вы будете прокляты вечно...
+Бесполезная родословная Эйнхасад...
+Заклинатель 1
+Заклинатель 2
+Заклинатель 3
+Заклинатель 4
+Дантес накажет вас...
+Подкрепление не собирается приходить?
+Я так не смогу защитить это место...
+Не будь так счастлив, что мы выиграли эту битву...
+Вечная слава... Ластабаду!
+Гнев Гран Каина превратит эту землю в море огня!!!
+Начальник стражи
+Начальник воинов
+Псевдо-тень огня
+Скованная душа
+Сарша
+Капитан чёрных рыцарей
+Свиток души
+Тёмный кристалл души
+Посох снежной королевы
+Посох демона
+Посох Бафомета
+Посох Белефа
+Меч Куртца
+Ашиннью
+[Большой питомец]
+Страж чёрных рыцарей
+Глаз Ластабада
+Письмо с договором Блудики
+Книга покровительства. Том 1
+Фрагмент чёрного слитка чистого митрила
+Письмо с договором командующего гномов
+Чертёж производства оружия
+Книга покровительства. Том 2
+Ожерелье солдата
+Значок солдата тёмных эльфов
+Значок генерала тёмных эльфов
+Кольцо стража
+Святая вода
+Священный хлеб
+Сумка гнома
+Святая сумка
+Эно
+Капитан стражи Кана
+Сэми
+Священница Кири
+Побеждённый солдат
+Компенсаци
+Чёрный слиток грубого митрила
+Чёрный слиток чистого митрила
+Чёрная митриловая пластина
+Корона мумии лорда
+Сумка для свитков
+Тано, помощник проведения фестиваля 
+Серебряный цзунцзы
+Золотой цзунцзы
+Слиток золота
+Золотой самородок
+Золотая пластина
+Слиток серебра
+Серебряный самородок
+Серебряная пластина
+Слиток платины
+Платиновый самородок
+Платиновая пластина
+Ты звал меня?
+Если ты собираешься быть моим боссом, ты должен хотя бы заплатить мне!
+Зачем ты звал меня?
+Я твоя собака?
+Я голоден! Дай мне немного еды!
+Тигр
+Ноуз
+Большой кот
+пустой
+Большой колли
+пустой
+Большой волк
+Ледяной самоцвет
+Предмет (ы)
+Платье силы
+Платье ловкости
+Сумка Халифа
+Рыночный телепорт
+Охрана рынка
+Джианку
+Монета репутации
+Монета доверия
+Монета мудрости
+Монета храбрости
+Сердце голема
+Сердце жар-птицы
+Сердце снежной королевы
+Сердце дрейка
+Реликвия Мафр
+Реликвия Паагрио
+Реликвия Евы
+Реликвия Сайхи
+Плащ вампира
+Плащ Сашина
+Курон
+Тулак
+Кусиан
+Коготь Баранки
+Доспех Баранки
+Шлем Баранки
+Перчатки Баранки
+Сапоги Баранки
+Жезл Лайи
+Ожерелье Лайи
+Кольцо Лайи
+Роба Лайи
+Кольцо призывателя зверей
+Амулет призывателя зверей
+Роба призывателя зверей
+Кнут призывателя зверей
+Кольцо чёрного мага
+Амулет чёрного мага
+Роба чёрного мага
+Посох чёрного мага
+Кольцо тёмного лесника
+Сапоги тёмного лесника
+Доспех тёмного лесника
+Зелье тёмного леса
+Ветка чёрного энта
+Кора чёрного энта
+Фрукт чёрного энта
+Оплата за смерть
+Кожа чёрного тигра
+Клык чёрного тигра
+Коготь чёрного тигра
+Корень глубинного цветка
+Бутон глубинного цветка
+Яд пластинчатого червя
+Коготь пластинчатого червя
+Кольцо пластинчатого червя
+Кожа крота
+Хвост броненосца
+Кольчуга пластинчатого червя
+Плащ из кожы чёрного тигра
+Меч безмолвия
+Эдорю крепости Диад
+Арбалет крепости Диад
+Документ для вывоза минералов
+Сумка с минералами
+Капля желудочного сока
+Вулканический пепел
+Камень чёрного духа
+Шахтёр Оум
+Тёмный эльф-перевозчик
+Фрим
+Рейдер
+Хагутин
+Оум-дизертир
+Оум
+Старший Оум
+Богиня искупления
+Телепортер Диарус
+Торговец Карупу
+Хранитель склада Гаул
+Телепортер Диабес
+Торговец Эмарт
+Хранитель склада Гарин
+Оум-прораб
+Дарпгадин
+Реона
+Чёрный тигр
+Призванный элементаль
+Баранка
+Лайя
+Призыватель зверей
+Чёрный маг
+Тёмный лесник
+Чёрный энт
+Огромный Оум
+Средний Оум
+Дилло
+Пластинчатый червь
+Глубинный цветок
+Крот
+Кирка
+Сумка Оума
+Статуя Оума
+Грубая статуя Оума
+Восстановленная статуя Оума
+Хорошая статуя Оума
+Нарисованная статуя Оума
+Завершённая статуя Оума
+Кошелек с деньгами Реоны
+Тёмный эльф-охотник
+Тёмный эльф-ученик
+Редин
+Тристан
+Кредонас
+Барнс
+Дженес
+Ланс
+Кодерейдж
+Ксестин
+Смайтер
+Янстин
+Платье уворота
+Кристалл тёмного духа (Платье силы)
+Кристалл тёмного духа (Платье ловкости)
+Кристалл тёмного духа (Платье уворота)
+Книга заклинаний (Сияющая аура)
+Книга заклинаний (Аура храбрости)
+(Сияющая аура)
+(Аура храбрости)
+Лук Диад
+Солдат-разведчик Адена
+Олле
+Заключённый тёмный эльф
+Сторожевая башня крепости
+Сумка Карифа высокого качества
+Договор о Воскрешении и вечной жизни
+Сумка Лавор
+Рабла
+Лавор
+Грубый клинок
+Медная печать
+Серебряная печать
+Золотая печать
+Печать гармонии
+Печать ментальных способностей
+Печать физических способностей
+Сумка Таехи: Медная печать
+Сумка Таехи: Серебряная печать
+Сумка Таехи: Золотая печать
+Сумка Рабл
+Мадриан
+Лихас
+Письмо Лихас
+Письмо Район
+Счастливый снеговик
+Золотые носки
+Тренировочный сет рыцаря
+Район
+Регина
+Тренировочный сет эльфа
+Тейрес
+Тренировочный сет мага
+Подмастер
+Тренировочный сет принца
+Фолдед
+Тренировочный сет тёмного эльфа
+Традиционная корейская футболка
+Футболка-кимоно
+Футболка-ципао
+Таеха
+Памятная монета короля Адена
+Рыночный телепортер
+Луку
+Денитц
+Кашман
+Юно
+Кванилл
+Дойо
+Сумка мага
+Бобы какао
+Тесто из какао
+Сахар
+Масло из какао
+Валентия
+Блейз
+Калькулятор
+Тонкая пластина
+Управляющий торговлей Адена
+Хранитель портала замка
+Хранитель портала крепости
+Кольцо храбрости
+Амулет влияния
+Путешественник
+Заклинатель
+Грубый амулет путешественника
+Амулет путешественника
+Таинственный амулет путешественника
+Орихалковый кинжал
+Митриловый кинжал
+Демонический топор
+Багровое копьё
+Норковая шуба
+Шляпа Мамбо
+Перчатки духа огня
+Перчатки духа льда
+Перчатки духа ветра
+Перчатки тёмного духа
+Кольцо бездны
+Запечатанный свиток
+Технический документ (Оглушающий удар)
+Книга заклинаний (Изучить клан)
+Кристалл духа (Тройная стрела)
+Кристалл духа (Падение стихии)
+Кристалл духа (Обратная мельница)
+Кристалл духа (Оковы ветра)
+Кристалл духа (Экзотическое оживление)
+Кристалл духа (Живая вода)
+Кристалл духа (Стихийный огонь)
+Свиток снятия печати
+Монета памяти Цириус
+Краб бездны
+Черепаха бездны
+Ящер бездны
+Червь бездны
+Элеккадом бездны
+Магический скорпион бездны
+Скорпайтан бездны
+Монстроглаз бездны
+Говорящий свиток
 Ivory Tower One-Handed Sword 
 Ivory Tower Two-Handed Sword
 Ivory Tower Axe
