@@ -92,7 +92,7 @@
 Кольцо
 Рунический меч
 Ятаган
-Серебрянная стрела
+Серебряная стрела
 Гномий топор
 Эльфийское копьё
 Копьё орков
@@ -115,7 +115,7 @@
 Дом Джеренга
 Бревенчатый дом
 Деревня
-Кожаный доспех
+Кожаная броня
 Изношенное
 Эльфийский кожаный шлем
 Кожанный шлем
@@ -162,7 +162,7 @@
 Кольчужная рубаха орков
 Грубая кольчужная рубаха
 Чешуйчатый доспех
-Шипованный кожаный доспех
+Шипованная кожаная броня
 Кольчуга
 Кольчуга орков
 Грубая кольчуга
@@ -259,8 +259,8 @@
 Свиток воскрешения
 Жезл заклинания монстров
 Поле дуэли
-Жезл полиморфа
-Кольцо контроля полиморфа
+Жезл трансформации
+Кольцо контроля трансформации
 Жезл призыва молнии
 Жезл из черного дерева
 Зелье скорости
@@ -274,7 +274,7 @@
 Чёрный рыцарь
 Предводитель чёрных рыцарей
 Куртц
-Это, должно быть, Говорящий Остров.
+Это, должно быть, Говорящий остров.
 Об этом сказал тот, кто тренировался в Доме Красного Рыцаря, поэтому я уверен, что эта информация верна.
 Верно также, что те, кто выступает против власти своего величества, живут здесь.
 Но, конечно же, его величество слишком остро реагирует! Несмотря на то, что он сын герцога Дефила, он всего лишь ребенок.
@@ -412,18 +412,18 @@
 Клеймор
 Большой топор
 Корона
-Рыцарское забрало
+Рыцарский шлем с забралом
 Градиус
 Кинжал душ
 Клинок судьбы
 Топор берсерка
 Щит Евы
-Чешуйчатая броня Евы
+Чешуйчатый доспех Евы
 Слёзы Евы
 Крылья Паагрио
 Грация Сайхи
 Меч паладина
-Броня паладина
+Доспех паладина
 Топор разрушения
 Броня ненависти
 Меч лорда Порше
@@ -504,7 +504,7 @@
 Тотем Дуда-Мара
 Вурдалак
 Свиток телепорта
-Жезл сильного полиморфа
+Жезл сильной трансформации
 Зелье восстановления магии
 Магический самоцвет
 Орк-страж
@@ -557,7 +557,7 @@
 Книга заклинаний (Воскрешение)
 Книга заклинаний (Гроза)
 Книга заклинаний (Усыпляющий туман)
-Книга заклинаний (Полиморф)
+Книга заклинаний (Трансформация)
 Книга заклинаний (Имунитет к урону)
 Книга заклинаний (Массовый телепорт)
 Книга заклинаний (Создать магическое оружие)
@@ -580,7 +580,7 @@
 Воля Гран Каина
 Хлопковая роба
 Кожаное пальто
-Усиленный кожаный доспех
+Усиленная кожаная броня
 Митриловая сетка
 Синяя роба
 Красное пальто
@@ -969,7 +969,7 @@
 Хаотический
 Василиск
 Кобольд
-Свиток полиморфа
+Свиток трансформации
 Дрейк
 Помощник
 Жезл изгнания
@@ -1207,7 +1207,7 @@ MP
 Шляпа мага
 Одежда мага
 Железные перчатки
-Железное забрало
+Железный шлем с забралом
 Железный щит
 Железные сапоги
 Железный нагрудник
@@ -1406,7 +1406,7 @@ MP
 Русалка
 Крокодил
 Алигатор
-Живая броня
+Живой доспех
 Свиток телепорта в город
 Свиток телепорта в Гиран
 Свиток возвращения - Поющий остров
@@ -1476,7 +1476,7 @@ MP
 (Воскрешение)
 (Гроза)
 (Усыпляющий туман)
-(Полиморф)
+(Трансформация)
 (Иммунитет к урону)
 (Массовый телепорт)
 (Создать магическое оружие)
@@ -1682,7 +1682,7 @@ EXP
 Богиня Бина
 Богиня Дра
 Богиня Лоши
-Полиморф маг
+Трансформация маг
 Зачарователь брони
 Зачарователь оружия
 Великий целитель
@@ -1757,11 +1757,11 @@ EXP
 Чёрный ключ
 Амулет Поющего острова
 Амулет Скрытой долины
-Броня рыцаря-ученика
+Доспех рыцаря-ученика
 Щит рыцаря-ученика
 Шлем рыцаря-ученика
 Меч ученика
-Броня принца-ученика
+Доспех принца-ученика
 Щит принца-ученика
 Шлем принца-ученика
 Лук эльфа-ученика
@@ -1808,7 +1808,7 @@ EXP
 Сапоги демона
 Шлем демона
 Перчатки рыцаря смерти
-Броня рыцаря смерти
+Доспех рыцаря смерти
 Ботинки рыцаря смерти
 Шлем рыцаря смерти
 Жемчужное ожерелье
@@ -1897,7 +1897,7 @@ EXP
 Магический шар
 Барния
 Рибиан
-Броня эльфа-ученика
+Доспех эльфа-ученика
 Сапоги эльфа-ученика
 Шлем эльфа-ученика
 Помощник управляющего Колизея
@@ -1932,9 +1932,9 @@ EXP
 Исвал
 Иширис
 Забытый нагрудник
-Забытый кожаный доспех
+Забытая кожаная броня
 Забытая роба
-Забытая чешуйчатая броня
+Забытый чешуйчатый доспех
 Кольцо контроля призыва
 Забытый большой меч
 Забытый меч
@@ -1947,7 +1947,7 @@ EXP
 Древний нагрудник
 Древняя кожаная броня
 Древняя роба
-Древняя чешуйчатая броня
+Древний чешуйчатый доспех
 Древний меч
 Древний большой меч
 Древний арбалет
@@ -2176,7 +2176,7 @@ EXP
 Город фермеров огненного поля
 Деревня Вудбек
 Город Серебряного Рыцаря
-Город Гиран
+Гиран
 Город замка Хейн
 Город башни Слоновой Кости
 Деревня Велдерн
@@ -2187,7 +2187,7 @@ EXP
 Маленький ребёнок
 Ребенок
 Деревенский житель
-Броня короля-самозванца
+Доспех короля-самозванца
 Сапоги короля-самозванца
 Перчатки короля-самозванца
 Шлем короля-самозванца
@@ -2197,7 +2197,7 @@ EXP
 Шкура химеры (Коза)
 Шкура химеры (Лев)
 Шкура химеры (Змея)
-Шлем Церенис
+Диадема Церенис
 Сердце дракона
 Перчатки Церенис
 Роба Церенис
@@ -2367,7 +2367,7 @@ EXP
 Ключ древнего мага
 Ключ судьбы
 Создание колдуна
-Древний посох полиморфа
+Древний посох трансформации
 Ювелир
 Парут
 Сок
@@ -2485,7 +2485,7 @@ EXP
 Пчела убийца
 Шаровая молния
 Кролик
-Броня стража
+Доспех стража
 Единорог
 Блуждающий огонь
 Бродяга
@@ -2597,7 +2597,7 @@ EXP
 Проклятая кожа (Земля)
 Серебряная пряжа
 Ручка карманных часов
-Серебряный шлем
+Серебряная диадема
 Сияющая чешуя
 Сияющий пояс выносливости
 Сияющий пояс разума
@@ -2763,7 +2763,7 @@ EXP
 Клинок мести
 Коготь ненависти
 Посох демона
-Броня Бафомета
+Доспех Бафомета
 Посох Бафомета
 Сапоги Белефа
 Посох Белефа
@@ -2772,7 +2772,7 @@ EXP
 Лук древнего эльфа
 Меч древнего эльфа
 Перчатки Куртца
-Броня Куртца
+Доспех Куртца
 Сапоги Куртца
 Шлем Куртца
 Меч Куртца
@@ -2875,8 +2875,8 @@ EXP
 Клык победы
 Благословенный доспех питомца
 Кольчужный доспех питомца
-Доспех питомца из ткани
-Кожаный доспех питомца
+Броня питомца из ткани
+Кожаная броня питомца
 Митриловый доспех питомца
 Сияющий доспех питомца
 Чешуйчатый доспех питомца
@@ -2909,7 +2909,7 @@ EXP
 Тяжелый арбалет Ластабада
 Посох Ластабада
 Кольчужная рубаха Ластабада
-Доспех из грубой кожи Ластабада
+Броня из грубой кожи Ластабада
 Роба Ластабада
 Ботинки Ластабада
 Круглый щит Ластабада
@@ -3090,7 +3090,7 @@ EXP
 Посох чёрного мага
 Кольцо тёмного лесника
 Сапоги тёмного лесника
-Доспех тёмного лесника
+Броня тёмного лесника
 Зелье тёмного леса
 Ветка чёрного энта
 Кора чёрного энта
@@ -3277,207 +3277,207 @@ EXP
 Скорпайтан бездны
 Монстроглаз бездны
 Говорящий свиток
-Ivory Tower One-Handed Sword 
-Ivory Tower Two-Handed Sword
-Ivory Tower Axe
-Ivory Tower Spear
-Ivory Tower Bow
-Ivory Tower Stone Bow
-Ivory Tower Staff
-Ivory Tower Great Sword
-Ivory Tower Claw
-Ivory Tower Dagger
-Ivory Tower Leather Helm
-Ivory Tower Leather Armor
-Ivory Tower Leather Sandal
-Ivory Tower Leather Gloves
-Ivory Tower Leather Shield
-Ivory Tower Ring
-Ivory Tower T-Shirt
-Ivory Tower Teleport Scroll
-Ivory Tower Scroll of Return
-Ivory Tower Scroll of Identity
-Ivory Tower Scroll of Curse Removal
-Ivory Tower Scroll of Polymorph
-Ivory Tower Healing Potion
-Ivory Tower Haste Potion
-Scroll of Return - Talking Island Village
-Scroll of Return - Gludin Town
-Scroll of Return - Kent Village
-Scroll of Return - Woodbec Village
-Scroll of Return - Fire-Field Farmers Town
-Scroll of Return - Elven Forest
-Scroll of Return - Silver Knight Town
-Scroll of Return - Giran City
-Scroll of Return - Heine City
-Scroll of Return - Oren City
-Scroll of Return - Werldern Village
-Scroll of Return - Aden Town
-Scroll of Return - Silent Cavern
-Lekman
-Serian
-Riri
-Gion
-Syria
-Oshillia
-Honin
-Chico
-Hob
-Tuck
-Galleon
-Gilbert
-Porikan
-Jerik
-Jaruman
-Larry
-Larry's Assistant
-Larry's Soldier
-1st Generation Heirloom of the Druga Clan
-2nd Generation Heirloom of the Druga Clan
-3rd Generation Heirloom of the Druga Clan
-4th Generation Heirloom of the Druga Clan
-5th Generation Heirloom of the Druga Clan
-6th Generation Heirloom of the Druga Clan
-7th Generation Heirloom of the Druga Clan
+Одноручный меч башни Слоновой Кости
+Двуручный меч башни Слоновой Кости
+Топор башни Слоновой Кости
+Копьё башни Слоновой Кости
+Лук башни Слоновой Кости
+Каменный лук башни Слоновой Кости
+Посох башни Слоновой Кости
+Большой меч башни Слоновой Кости
+Коготь башни Слоновой Кости
+Кинжал башни Слоновой Кости
+Кожаный шлем башни Слоновой Кости
+Кожаная броня башни Слоновой Кости
+Кожаные сандалии башни Слоновой Кости
+Кожаные перчатки башни Слоновой Кости
+Кожаный щит башни Слоновой Кости
+Кольцо башни Слоновой Кости
+Футболка башни Слоновой Кости
+Свиток телепорта башни Слоновой Кости
+Свиток возвращения башни Слоновой Кости
+Свиток идентификации башни Слоновой Кости
+Свиток снятия проклятия башни Слоновой Кости
+Свиток трансформации башни Слоновой Кости
+Зелье лечения башни Слоновой Кости
+Зелье скорости башни Слоновой Кости
+Свиток возвращения: Деревня Говорящего острова
+Свиток возвращения: Город Глудин
+Свиток возвращения: Деревня Кент
+Свиток возвращения: Деревня Вудбек
+Свиток возвращения: Город фермеров огненного поля
+Свиток возвращения: Эльфийский лес
+Свиток возвращения: Город Серебряного Рыцаря
+Свиток возвращения: Гиран
+Свиток возвращения: Хейн
+Свиток возвращения: Орен
+Свиток возвращения: Деревня Велдерн
+Свиток возвращения: Аден
+Свиток возвращения: Пещера Безмолвия
+Лекман
+Сэриан
+Рири
+Гион
+Сирия
+Ошиллия
+Хонин
+Чико
+Хоб
+Тук
+Галлеон
+Гилберт
+Порикан
+Джерик
+Яруман
+Лари
+Помощник Лари
+Солдат Лари
+Первое поколение наследства клана Друга
+Второе поколение наследства клана Друга
+Третье поколение наследства клана Друга
+Четвёртое поколение наследства клана Друга
+Пятое поколение наследства клана Друга
+Шестое поколение наследства клана Друга
+Седьмое поколение наследства клана Друга
 Unknown Heirloom
-Tarak's Head
-Tarak's Robe
-Tarak's Gloves
-Tarak's Cloak
-Tarak's Boots
-Tarak's Sickle
-Tarak's Valuables
-Tarak's Devil Book, Volume 1
-Tarak's Tongue
-Tarak's Devil Book, Volume 2
-Tarak's Poison
-Tarak's Devil Book, Volume 3
-Tarak's Tooth
-Tarak's Devil Book, Volume 4
-Tarak's Hand
-Ancients' Book of Magic, Volume 1
-Devil's Black Shackles
-Gian's Scroll
-Kalbas' Scroll
-Ancients' Book of Magic, Volume 2
-Devil's Red Shackles
-Ancients' Alchemy Scroll
-Ancients' Book of Magic, Volume 3
-Devil's Blue Shackles
-Ancients' Magic Scroll
-Ancients' Book of Magic, Volume 4
-Devil's White Shackles
-Alchemist's Stone
-Potion of Mental Ability
-Cursed Blood
-Devil's Blood
-Varlok's Blood-Colored Cloak
-Devil's Crossbow
-Devil's Knife
-Devil's Great Sword
-Devil's Claw
-Wild Venom
-Wild Fang
-Wild Magic
-Mad Lizardman
-High Lizardman
-Heavy Lizardman
-Mad Maya
-High Maya
-Heavy Maya
-Ravabon
-Ravabon Soldier
-Ravabon Head
-Old Leather Pouch
-Old Silk Pouch
-Relic Pouch
-Sword of Kent Soldier
-Bow of Kent Archer
-Staff of Kent Wizard
-Great Sword of Kent Assassin
-Axe of Kent Warrior
-Kent Emblem Boots
-Kent Emblem Plate
-Kent Emblem Gloves
-Kent Emblem Shield
-Kent Emblem Helm
-Brown Piece of Bread
-Burnt Piece of Bread
-Wine
-Whiskey
-Tarak
-Incarnation of Tarak
-Large Grave Guardian
-Grave Guardian Knight
-Grave Guardian Mage
-Grave Guardian
-Lesser Demon
-Incarnation of Varlok
-Servant of Kalbas
-Ancient Giant General
-Ancient Giant Elder
-Imprisoned Aden Soldier
-Batshu
-Roy
-Aden Castle Princess
-Roy's Pouch
-Jail Key
-Bobo
-Light Warrior Effect
-Magic Lantern
-Ober
-Nicki
-Freeze Resistance
-Stonification Resistance
-Sleep Resistance
-Darkness Resistance
-Stun Resistance
-Hold Resistance
-None
-Duval
-Duran
-Roxanne
-Boat Ticket to Pirate's Island
-Boat Ticket to Hidden Wharf
-Backup soldier! Backup soldier!
-My task ends here too...
-May you enjoy the blessings of Gran Kain! Ha, haaaah!
-I don't want to die like this! Earth Bind!
-I'm satisfied just to have caused you to be delayed.
-This is not the end!
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-Mambo Rabbit
-Mambo Rabbit Assistant
-Child of Fire
-Child of Ice
-Child of Wind
-Child of Darkness
-Flame
-Blizzard
-Vacuum
-Ground
-Abyss Flame
-Abyss Blizzard
-Abyss Vacuum
-Abyss Ground
-Abyss Rod
-Abyss Ghoul
-Abyss Archer
-Abyss Thing
+Шлем Тарака
+Роба Тарака
+Перчатки Тарака
+Плащ Тарака
+Ботинки Тарака
+Серп Тарака
+Драгоценности Тарака
+Дьявольская книга Тарака, Том 1
+Язык Тарака
+Дьявольская книга Тарака, Том 2
+Яд Тарака
+Дьявольская книга Тарака, Том 3
+Зуб Тарака
+Дьявольская книга Тарака, Том 4
+Рука Тарака
+Древняя книга магии, Том 1
+Чёрные оковы дьявола
+Свиток великана
+Свиток Кальбаса
+Древняя книга магии, Том 2
+Красные оковы дьявола
+Древний алхимический свиток
+Древняя книга магии, Том 3
+Синие оковы дьявола
+Древний магический свиток
+Древняя книга магии, Том 4
+Белые оковы дьявола
+Алхимический камень
+Зелье ментальных способностей
+Проклятая кровь
+Кровь дьявола
+Кровавый плащ Варлока
+Арбалет дьявола
+Нож Дьявола
+Большой меч Дьявола
+Коготь Дьявола
+Злобный кабан
+Клыкастый кабан
+Магический кабан
+Безумный ящер
+Старший ящер
+Тяжёлый ящер
+Безумный Майя
+Старший Майя
+Тяжёлый Майя
+Равабон
+Равабон солдат
+Равабон глава
+Старая кожаная сумка
+Старая шёлковая сумка
+Сумка с реликвиями
+Меч солдата Кента
+Лук стрелка Кента
+Посох мага Кента
+Большой меч ассасина Кента
+Топор воина Кента
+Сапоги с гербом Кента
+Доспех с гербом Кента
+Перчатки с гербом Кента
+Щит с гербом Кента
+Шлем с гербом Кента
+Ломоть чёрного хлеба
+Ломоть подгоревшего хлеба
+Вино
+Виски
+Тарак
+Воплощение Тарака
+Большой хранитель могил
+Рыцарь-хранитель могил
+Маг-хранитель могил
+Хранитель могил
+Младший демон
+Воплощение Варлока
+Слуга Кальбаса
+Древний генерал великанов
+Древний старейшина великанов
+Заключённый солдат Адена
+Батшу
+Рой
+Принцесса замка Аден
+Сумка Роя
+Ключ от тюрьмы
+Бобо
+Эффект воина света
+Магический фонарь
+Обер
+Ники
+Сопротивление замораживанию
+Сопротивление окаменению
+Сопротивление сну
+Сопротивление тьме
+Сопортивление оглушению
+Сопротивление удержанию
+Нон
+Дювал
+Дюран
+Роксана
+Билет на остров Пиратов
+Билет к Скрытой пристани
+Резервный солдат! Резервный солдат!
+Моё задание тоже заканчивается здесь...
+Можете наслаждаться благословениями Гран Каина! Ха, хаааах!
+Я не хочу умирать так! Путы земли!
+Я удовлетворен только тем, что заставил вас задержаться.
+Это не конец!
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+манекен
+Кролик Мамбо
+Помощника кролика Мамбо
+Дитя огня
+Дитя льда
+Дитя ветра
+Дитя тьмы
+Пламя
+Метель
+Вакуум
+Земля
+Пламя бездны
+Метель бездны
+Вакуум бездны
+Земля бездны
+Жезл бездны
+Зомби бездны
+Лучник бездны
+Предмет бездны
 
 
 
@@ -13736,260 +13736,260 @@ Line 13502 (13500 in npcdef)
 
 
 
-Benole
-Alan
-Toby
-Kohath
-Korah
-Shari
-Jane
-Edward
-Uriah
-Josef
-Rachel
-Ruth
-Rueben
-Cronos
-Dark Mage
-Samuel
-Phinehas
-Sawaquot
-Gnoll Elder
-Faruuk
-Rhynlok
-Mazril
-Bhaltezor
+Бенол
+Алан
+Тоби
+Кохат
+Коран
+Шари
+Джейн
+Эдвард
+Уриах
+Джозеф
+Рейчел
+Рут
+Рюбен
+Кронос
+Тёмный маг
+Самуель
+Финехас
+Савакуот
+Старший гнолл
+Фаруук
+Ринлок
+Мазрил
+Балтезор
 2528
-Aamir
-Ayize
-Galiene
-Daphne
-Zarlok
-Elazar
-Amy
-Issiac
-Dwarven Miner
-Skeleton Mage
-Skeleton Wizard
-Skeleton Sorcerer
-Skeleton Spellcaster
-Kronok
-Bryzak
-D'jin
-Hezikial
+Аамир
+Айзи
+Галиен
+Дафни
+Зарлок
+Элазар
+Ами
+Исаак
+Гном-шахтёр
+Скелет-маг
+Скелет-волшебник
+Скелет-чародей
+Скелет-заклинатель
+Кронок
+Бризак
+Диджин
+Хезикиал
 2546
 2547
 2548
 2549
-Carmelia
-Emma
-Lothar the Tutor
-Manfred the Tutor
-Inventory Tutor
-Nutrition Tutor
-Communication Tutor
-Combat Tutor
-Party Tutor
-Interface Tutor
-Magic Tutor
-Class Tutor
-NPC Tutor
-Trade Tutor
-Travel Tutor
+Кармелия
+Эмма
+Наставник Лотар
+Наставник Манфред
+Учитель снаряжения
+Учитель питания
+Учитель коммуникации
+Учитель боя
+Учитель группы
+Учитель интерфейса
+Учитель магии
+Учитель по классам
+Учитель по NPC
+Учитель торговли
+Учитель перемещения
 2565
-Rules Tutor
-History Tutor
-Quests Tutor
-Heather
-Heather
-Makir
-Skeleton Boots
-Orcish Mage Ring
-Mermaid's Ring
-Dupelgenon's Ring
-Dwarvish Ring
-Lost Scroll
-Novice Mage Cap
-Paagrio's Ring
-Eva's Ring
-Unknown Teleportation Scroll
-Ruby Ring
-Sapphire Ring
-Moonstone Ring
-Carnelian Ring
-Lump of Metal
-Bone Chip
-Crooked Mana Staff
-Health Potion
-Are you new here?
-Perhaps I can help.
-Now you die!
-Attack!
-Gah! I've been ended!
-*gasp* You've collapsed my lung...
-I'll smash yer head!
-...sweet death...take me...
-...dead...again...
-...You bully...I'm just a little goblin...
-These humans think they can take our land?
-We shall reclaim our homeland!
-Kill those who oppose us!
-Paagrio will give us strength!
-You will never drive us from our homeland!
-Ahh! I've been killed by a petty trickster!
-Aurgh! You've defeated the great Zarlok!
-C'mere! I'll take you down!
-...Our magic...never dies...
-...fear the dead...
-...you do not know the true power of Gran Kain...
-...we shall kill those who oppose us...
-Crooked staff
-Royal Nectar
-Essence of Nobility
-Eva's Cap
-Eva's Tunic
-Eva's Cloak
-Eva's Belt
-Paagrio's Robe
-Paagrio's Cap
-Paagrio's Cloak
-Paagrio's Belt
-Eva's Staff
-Paagrio's Staff
-Teleport Scroll: Orc Town
-Teleport Scroll: Ocean Floor
-Teleport Scroll: Turtle Island
-Teleport Scroll: Oasis
-Teleport Scroll: Oren Wastelands
-Teleport Scroll: Skeleton Isle
-Teleport Scroll: Warrior Valley
-Teleport Scroll: Lair Of Valakas
-Teleport Scroll: LoA Tournament
-Engraved Visor
-Engraved Breast Plate
-Bejeweled Visor
-Bejeweled Breast Plate
-Elindaire's Staff
-Serpent Scale
-Elindaire's Orb
-Ring of Protection
-Troll Ring
-Elven Tunic
-Maphr's Ring
-Maphr's Tunic
-Maphr's Shield
-Amulet of Maphr
-Mermaid's Necklace
-Sharkskin Belt
-Paagrio's Plate Armor
-Paagrio's Visor
-Paagrios' Gloves
-Sayha's Plate Armor
-Sayha's Visor
-Sayha's Gloves
-Eva's Plate Armor
-Eva's Visor
-Eva's Gloves
-Maphr's Plate Armor
-Maphr's Visor
-Maphr's Gloves
-Chit
-Staff Present
-Sayha's Crossbow
-Mithril Robe
-Mithril Tunic
-Cloak of Deception
-Glarielle
-Tutor
-Revenant
-Baell Zaer
-Rastian
-Onetria
-Testing Varmit
-Testing Item
-Aeolus
-Sorcerer
-Gunthar
-Gorynn
-Soria
-Tiger
-Teleport Scroll: Turtle Isle
-KillGlance's Ring
-Sapphire Necklace
-Mithril Cap
-Amulet
-Mermaid's Cap
-Mermaid's Tunic
-Orc Wizard's Cap
-Orc Wizard's Tunic
-Mermaid Princess
-KillGlance
-Magic Crystal
-Ancient
-Thor's Hammer
-Paagrio's Hatred
-Orcish Bume Smache
-Maphr's Pestilence
-Maphr's Strife
-Maphr's Retribution
-Eva's Contempt
-Eva's Scorn
-Sayha's Defiance
-Sayha's Vengeance
-Sayha's Vindication
-Pirate
-Dread Tom Kidd
-To the death!
-And now you die!
-Now you're getting a Dwarf whoopin'!
-Cha! Feel the bite of my war hammer!
-That was a mistake...
-I'll carve you like a ham!
-I hope you have a mop, because this'll be messy.
-We'll bury you in these woods!
-Fight or run, it is your choice. Either way, you die.
-...My tribe will avenge me...
-...*gurgle*...ahh, my spleen...
-...defeat...agony...death...
-Wise Man
-Magi
-Mysterious King
-Christmas Stocking
-Wondrous Stocking
-Magnificent Stocking
-Ring of the 
-Caspa's Ring
-Merkyor's Ring
-Sema's Ring
-Ring of the Bear
-Ring of the Shark
-Ring of the Harpy
-Ring of the Phoenix
-Unknown Potion
-Dark Elf Tunic
-Dark Elf Sandals
-Dark Elf Circlet
-Come, come! Death waits for you!
-Ancient Sorcerer's Cap
-Enchanted Circlet: Healing
-Enchanted Circlet: Power
-Enchanted Circlet: Speed
-Boots of the 
-Gloves of the 
-Belt of the 
-Necklace of the 
-Helm of the 
-Glendurial
-Eurus
-Zephyr
-Notus
-Boreas
-Aeolus
-Joan
-Scroll of
-Stone of Maphr
-Paagrio's Ash
-Eva's Gift
-Sayha's Plume
-Arrow Quiver
-Elder Ent
+Учитель правил
+Учитель истории
+Учитель квестов
+Хезер
+Хезер
+Макир
+Сапоги скелета
+Магическое колько орков
+Кольцо русалки
+Кольцо доппельгангера
+Кольцо гномов
+Потерянный свиток
+Шляпа мага-новичка
+Кольцо Паагрио
+Кольцо Евы
+Неизвестный свиток телепортации
+Кольцо с рубином
+Кольцо с сапфиром
+Кольцо с лунным камнем
+Кольцо с карнеолом
+Слиток металла
+Костяной осколок
+Изогнутый посох маны
+Зелье здоровья
+Ты здесь новенький?
+Возможно, я могу помочь.
+Теперь ты умрешь!
+Атака!
+Гах! Я закончил!
+*удар* Ты пробил мне лёгкое...
+Я размажу твою голову!
+...сладкая смерть...забери меня...
+...мёртв...снова...
+...Ты вандал... Я всего лишь маленький гоблин...
+Эти люди думают, что могут захватить нашу землю?
+Мы вернём нашу родину!
+Убейте тех, кто против нас!
+Паагрио даст нам силу!
+Вы никогда не будете прогонять нас с нашей родины!
+Ахх! Меня убил мелкий ловкач!
+Аргх! Вы победили великого Зарлока!
+Идите сюда! Я вас на землю повалю!
+... Наша магия... никогда не умрёт...
+... бойтесь мёртвых...
+... Вы не знаете истинной силы Гран Каина...
+... мы будем убивать тех, кто против нас...
+Изогнутый посох
+Королевский нектар
+Эссенция дворянина
+Шляпа Евы
+Туника Евы
+Плащ Евы
+Пояс Евы
+Роба Паагрио
+Шляпа Паагрио
+Плащ Паагрио
+Пояс Паагрио
+Посох Евы
+Посох Паагрио
+Свиток телепорта: Город орков
+Свиток телепорта: Дно океана
+Свиток телепорта: Остров черепах
+Свиток телепорта: Оазис
+Свиток телепорта: Пустошь Орена
+Свиток телепорта: Остров скелета
+Свиток телепорта: Долина воинов
+Свиток телепорта: Логово Валакаса
+Свиток телепорта: соревнование ЛоА
+Гравированный шлем с забралом
+Гравированная грудная пластина
+Инкрустированный шлем с забралом
+Инкрустированная грудная пластина
+Посох Элиндейра
+Чешуя змеи
+Шар Элиндейра
+Кольцо защиты
+Кольцо тролля
+Эльфийская туника
+Кольцо Мафр
+Туника Мафр
+Щит Мафр
+Амулет Мафр
+Ожерелье русалки
+Пояс из акульей кожи
+Пластинчатый доспех Паагрио
+Шлем с забралом Паагрио
+Перчатки Паагрио
+Пластинчатый доспех Сайхи
+Шлем с забралом Сайхи
+Перчатки Сайхи
+Пластинчатый доспех Евы
+Шлем с забралом Евы
+Перчатки Евы
+Пластинчатый доспех Мафр
+Шлем с забралом Мафр
+Перчатки Мафр
+Чит
+Посох настоящего
+Арбалет Сайхи
+Митриловая роба
+Митриловая туника
+Плащ обмана
+Глариель
+Учитель
+Вернувшийся
+Баелль Заер
+Растиан
+Онетрия
+Проверяющий Вармит
+Предмет для проверки
+Аеолус
+Чародей
+Гюнтар
+Горинн
+Сория
+Тигр
+Свиток телепорта: Остров черепах
+Кольцо КилГланса
+Сапфировое ожерелье
+Митриловая шляпа
+Амулет
+Шляпа русалки
+Туника русалки
+Шляпа орка-мага
+Туника орка-мага
+Русалка-принцесса
+КилГланс
+Магический кристалл
+Древний
+Молот Тора
+Ненависть Паагрио
+Орочий Бум-Хрясь
+Землетрясение Мафр
+Борьба Мафр
+Возмездие Мафр
+Презрение Евы
+Насмешка Евы
+Неповиновение Сайхи
+Месть Сайхи
+Защита Сайхи
+Пират
+Страшный Том Кидд
+До смерти!
+А теперь вы умрёте!
+Сейчас вы получите порку от гнома!
+Ха! Почувствуйте укус моего боевого молота!
+Это была ошибка...
+Я разделаю вас, как ветчину!
+Надеюсь, у вас есть швабра, потому что это будет грязно.
+Мы похороним вас в этих лесах!
+Боритесь или бегите, это ваш выбор. В любом случае, вы умрёте.
+... Мое племя отомстит за меня...
+...*бульканье*... ахх, моя селезёнка...
+... поражение... агония... смерть...
+Мудрец
+Мэги
+Таинственный король
+Рожденственский чулок
+Чудесный чулок
+Прекрасный чулок
+Кольцо 
+Кольцо Каспа
+Кольцо Мелькиора
+Кольцо Сема
+Кольцо медведя
+Кольцо Акулы
+Кольцо Гарпии
+Кольцо Феникса
+Неизвестное зелье
+Туника тёмных эльфов
+Сандалии тёмных эльфов
+Диадема тёмных эльфов
+Идите, идите! Смерть ждёт вас!
+Древняя шляпа колдуна
+Зачарованная диадема: Лечение
+Зачарованная диадема: Сила
+Зачарованная диадема: Скорость
+Сапоги 
+Перчатки 
+Пояс 
+Ожерелье 
+Шлем 
+Глендуриал
+Эурус
+Зефир
+Нотус
+Бореас
+Аэолус
+Джоан
+Свиток 
+Камень Мафр
+Пепел Паагрио
+Дар Евы
+Перо Сайхи
+Колчан стрел
+Старший энт
